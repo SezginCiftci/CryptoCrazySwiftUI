@@ -1,4 +1,4 @@
-# CryptoCrazySwiftUI
+# CryptoCrazySwiftUI <img src="https://github.com/SezginCiftci/CryptoCrazySwiftUI/blob/main/bitcoin.png" width="40">
 
 <img src="https://github.com/SezginCiftci/CryptoCrazySwiftUI/blob/main/CryptoCrazyScreen.png" width="250">
 
